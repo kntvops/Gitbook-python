@@ -13,6 +13,7 @@
 * [解析式和生成器](md/anly-genrator.md)
 * [封装和解构](md/enc_dec.md)
 * [Python函数](md/python-func1.md)
+* [Python函数进阶](md/python-func2.md)
 * [魔术方法](md/object_advanced.md)
 * [内建函数](md/build-in-func.md)
 * [模块](md/module.md)
