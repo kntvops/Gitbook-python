@@ -1,0 +1,20 @@
+# Summary
+
+* [Introduction](README.md)
+* [Gitbook安装](md/gitbook.md)
+* [Pyenv安装](md/pyenv.md)
+* [Python基础语法](md/01_base-grammer.md)
+* [内置数据结构列表-list](md/02_build-in-list.md)
+* [内置数据结构元组-tuple](md/02_build-in-tuple.md)
+* [内置数据结构字符串-str](md/02_build-in-str.md)
+* [内置数据结构字节-byte](md/02_build-in-byte.md)
+* [内置数据结构集合-set](md/02_build-in-set.md)
+* [内置数据结构集合-dict](md/02_build-in-dict.md)
+* [解析式和生成器](md/anly-genrator.md)
+* [封装和解构](md/enc_dec.md)
+* [Python函数](md/python-func1.md)
+* [魔术方法](md/object_advanced.md)
+* [内建函数](md/build-in-func.md)
+* [模块](md/module.md)
+* [算法](md/algorithm.md)
+
